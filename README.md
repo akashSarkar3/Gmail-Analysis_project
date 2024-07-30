@@ -16,7 +16,7 @@ A labeled dataset containing email text and their corresponding spam/ham labels.
 
 **Accuracy: 97%**
 
-**Visualizations:****
+**Visualizations:**
 
 **Confusion Matrices:**
 Show how many emails were correctly and incorrectly classified as spam or ham. Helps to visualize model performance and identify areas for improvement.
